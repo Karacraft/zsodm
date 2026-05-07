@@ -1,0 +1,28 @@
+{
+  "generationParameters": {
+    "generationDate": "Thu May 07 2026 10:57:06 GMT+0500 (Pakistan Standard Time)",
+    "generatorPlatform": "Visual Studio Code",
+    "serviceType": "OData URL",
+    "metadataFilename": "",
+    "serviceUrl": "https://vhtlxds4ci.sap.thallimited.com:44300/sap/opu/odata/sap/ZSODM_SYSTEM_SB",
+    "appName": "usertcodes",
+    "appTitle": "Transaction Codes",
+    "appDescription": "Thal Limited - Segregation of Duty Transcation Codes",
+    "appNamespace": "com.tl",
+    "ui5Theme": "sap_horizon",
+    "ui5Version": "1.136.10",
+    "enableEslint": false,
+    "enableTypeScript": false,
+    "showMockDataInfo": true,
+    "generatorVersion": "1.20.4",
+    "template": "List Report Page V2",
+    "generatorName": "SAP Fiori Application Generator",
+    "entityRelatedConfig": [
+      {
+        "type": "Main Entity",
+        "value": "UserTCodes"
+      }
+    ],
+    "launchText": "To launch the generated application, run the following from the generated application root folder:\n\n```\n    npm start\n```"
+  }
+}
